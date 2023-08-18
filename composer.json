@@ -1,6 +1,6 @@
 {
   "name": "jugalkishoredots/active",
-  "description": "The helper class for Laravel applications to get active class base on current route",
+  "description": "This Package helps Laravel applications to get active class base on current route",
   "license": "MIT",
   "version": "1.1.0.0",
   "authors": [

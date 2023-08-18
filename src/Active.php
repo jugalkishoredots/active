@@ -7,20 +7,7 @@ use Illuminate\Http\Request;
 use Illuminate\Routing\Route;
 use Illuminate\Support\Str;
 
-/**
- * Return "active" class for the current route if needed
- *
- * Check the current route to decide whether return an "active" class base on:
- * <ul>
- *   <li>current route URI</li>
- *   <li>current route name</li>
- *   <li>current action</li>
- *   <li>current controller</li>
- * </ul>
- *
- * @package    Dotsquares\Active
- * @author     Hieu Le <letrunghieu.cse09@gmail.com>
- */
+
 class Active
 {
 
