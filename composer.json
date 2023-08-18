@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dotsquares\\Active\\": "src/",
+            "Dotsquares\\Active\\": "src/"
         },
         "files": [
           "src/helpers.php"
