@@ -1,6 +1,6 @@
 <?php
 
-namespace HieuLe\Active;
+namespace Dotsquares\Active;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Http\Request;
@@ -18,7 +18,7 @@ use Illuminate\Support\Str;
  *   <li>current controller</li>
  * </ul>
  *
- * @package    HieuLe\Active
+ * @package    Dotsquares\Active
  * @author     Hieu Le <letrunghieu.cse09@gmail.com>
  */
 class Active

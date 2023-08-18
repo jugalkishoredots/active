@@ -1,6 +1,6 @@
 <?php
 
-namespace HieuLe\Active\Facades;
+namespace Dotsquares\Active\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
