@@ -1,0 +1,35 @@
+{
+    "name": "jugalkishoredots/active",
+    "description": "The helper class for Laravel applications to get active class base on current route",
+    "license": "MIT",
+    "version": "1.2.0",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Dotsquares\\Active\\": "src/",
+        },
+        "files": [
+          "src/helpers.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "extra": {
+    "laravel": {
+      "providers": [
+        "Dotsquares\\Active\\ActiveServiceProvider"
+      ],
+      "aliases": {
+        "Active": "Dotsquares\\Active\\Facades\\Active"
+      }
+    }
+  },
+    "authors": [
+        {
+            "name": "Jugal Kishore",
+            "email": "jugal.kishore@dotsquares.com"
+        }
+    ]
+}
